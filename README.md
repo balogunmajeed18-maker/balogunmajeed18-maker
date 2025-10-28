@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi there 👋 I'm Balogun Abdulmajeed a Data Analyst /💻excel/ power BI 📊/ python 🐍/ Tableau /SQL
 
-<!--
-**balogunmajeed18-maker/balogunmajeed18-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! 
+
+I use this space to share my data projects, reports, and dashboards.
+
+### 
+
+ 
+
+ 
+
+My Interests
+
+- Data cleaning and visualization 
+
+- SQL and Excel analysis 
+
+- Power BI dashboards 
+
+- Python for data analytics
+
+### 
+
+ 
+
+Sample Projects
+
+- [Nigeria Population Analysis using Excel](#)
+
+- [Sales Dashboard in Power BI](#)
+
+- [Data Cleaning with Python](#)
+
+ 
+
+
+ 
+
+**Contact me:** balogunmajeed18@gmail.com
+
+
+ 
+**LinkedIn:** [linkedin.com/in/balogunmajeed](#)
